@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ModiGaming
+- 👋 Hi, I’m Kade
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on idk
