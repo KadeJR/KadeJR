@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kade
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning rust and yew/tauri
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me kaderabe04@gmail.com
 
