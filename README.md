@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kade
 - 👀 I’m interested in Programming + Gaming
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me kaderabe04@gmail.com
